@@ -1,0 +1,14 @@
+[
+    {
+        "EmpID": 101,
+        "EmpName": "kajal",
+        "EmpEmail": "kajal@gmail.com",
+        "dept": "engeniaer"
+    },
+    {
+        "EmpID": 102,
+        "EmpName": "dhavnil",
+        "EmpEmail": "dhavnil@gmail.com",
+        "dept": "java"
+    }
+]
